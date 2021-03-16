@@ -1,0 +1,1 @@
+ jika mengikuti skenario yang diberikan maka akan terjadi error yaitu app akan ke close dengan sendirinya. agar tidak error media kolom harus diinput angka
